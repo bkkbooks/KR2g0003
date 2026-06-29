@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2g0003/WYG/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 晏子春秋
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-10 23:32:42.820168'
+  source:
+    repository: kanripo
+    path: KR2g0003/KR2g0003_007.txt
+hash: sha256:44fc755d1787860da498d9d914ea1bbcefca99e8f2be7ced2b84e75eb26385f1

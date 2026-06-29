@@ -1,0 +1,196 @@
+canonical_identifier: bkk:krp/KR2g0003/krp/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2g0003_SBCK_000-1a01}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書史部七}
+  - {type: page-break, offset: 0, content: '', id: KR2g0003_WYG_000-1a, image: WYG0446/WYG0446-0095a.png}
+  - {type: variant, offset: 4, length: 0, content: '', WYG: 𫝊記類二名人之屬提要臣等謹案晏子春秋八巻舊本題齊晏嬰撰晁公武讀書志嬰相景公此書著其行事及諫諍之言崇文總}
+  - {type: variant, offset: 5, length: 1, content: 録, WYG: 謂後人採嬰行事為之非嬰所撰然則是書所記乃唐人魏徵諫錄李綘論事集之流特失其編次者之姓名耳題為嬰者依託也其中如王士禎池北偶談所摘濟景公圉人一事鄙倍荒唐殆同戲劇則妄人又有所竄入非原本矣劉向班固俱列之儒家中惟柳宗元以為墨子之徒有齊人者為之其㫖多尚兼愛非厚葬久喪者又往往言墨子聞其道而稱之薛季宣浪語集又以為孔叢子詰墨諸條今皆見晏子書中則嬰之學實出于墨盖嬰雖畧在墨翟前而史角止魯實在恵公之時見吕氏春秋仲春記尚染篇故嬰能先宗其説也其書自史記管晏列𫝊已稱為晏子春秋故劉知㡬史通稱晏子虞卿吕氏陸賈其書篇第本無年月而亦謂之春秋然漢志惟作晏子隋志乃名春秋盖二名兼行也漢志隋志皆作八篇至陳氏晁氏書目乃皆作十二巻盖篇帙己多有更改矣此為明季氏綿𦕈閣刻本内篇分諫上諫下問上問下雜上雜下六篇外篇上下二篇與漢志八篇之數相合若世所𫝊烏程閔氏刻本以一事而内篇外篇􅃨見所記大同小異者悉移而夾註内篇下殊為變亂無緒今故仍從此本著錄庶㡬猶畧近古焉乾隆四十五年十一月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀欽定四庫全書晏子春秋巻一}
+  - {type: page-break, offset: 5, content: '', id: KR2g0003_WYG_000-1b, image: WYG0446/WYG0446-0095b.png}
+  - {type: page-break, offset: 5, content: '', id: KR2g0003_WYG_000-2a, image: WYG0446/WYG0446-0096a.png}
+  - {type: page-break, offset: 5, content: '', id: KR2g0003_WYG_000-2b, image: WYG0446/WYG0446-0096b.png}
+  - {type: page-break, offset: 5, content: '', id: KR2g0003_WYG_001-1a, image: WYG0446/WYG0446-0096c.png}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2g0003_SBCK_000-1a02}
+  - {type: indent, offset: 0, content: 　　, id: KR2g0003_krp_000-bkkind1}
+  - {type: variant, offset: 6, length: 268, content: 凢二十五章内篇諫下第二凢二十五章内篇問上第三凢三十章内篇問下第四凢二十章内篇襍上第五凢三十章内篇襍下第六凢三十章外篇重而異者第七凢二十七章外篇不合經術者第八凢十八章右晏子凢内外八篇緫二百十五章護左都水使者光祿大夫臣向言所校中書晏子十一篇臣向謹與長社尉臣叅校讐太史書五篇臣向書一篇叅書十三篇凢中外書三十篇爲八百三十八章除復重二十二篇六百三十八章定著八篇二百一十五章外書無有三十六章中書無有七十一章中外皆有㠯相定中書㠯夭爲芳文爲僃先爲牛章爲長如此類者多謹頗略椾皆巳定㠯殺青書可繕寫晏子名嬰謚平仲萊人萊者今東萊地也晏子博聞彊記通于古今事齊靈公, WYG: ''}
+  - {type: 'kr:newline', offset: 11, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 11, content: '', id: KR2g0003_SBCK_000-1a03}
+  - {type: indent, offset: 11, content: 　　, id: KR2g0003_krp_000-bkkind2}
+  - {type: 'kr:newline', offset: 22, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 22, content: '', id: KR2g0003_SBCK_000-1a04}
+  - {type: indent, offset: 22, content: 　　, id: KR2g0003_krp_000-bkkind3}
+  - {type: 'kr:newline', offset: 32, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 32, content: '', id: KR2g0003_SBCK_000-1a05}
+  - {type: indent, offset: 32, content: 　　, id: KR2g0003_krp_000-bkkind4}
+  - {type: 'kr:newline', offset: 42, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 42, content: '', id: KR2g0003_SBCK_000-1a06}
+  - {type: indent, offset: 42, content: 　　, id: KR2g0003_krp_000-bkkind5}
+  - {type: variant, offset: 44, length: 1, content: 襍, SBCK: 􅇎}
+  - {type: 'kr:newline', offset: 52, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 52, content: '', id: KR2g0003_SBCK_000-1a07}
+  - {type: indent, offset: 52, content: 　　, id: KR2g0003_krp_000-bkkind6}
+  - {type: variant, offset: 54, length: 1, content: 襍, SBCK: 􅇎}
+  - {type: 'kr:newline', offset: 62, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 62, content: '', id: KR2g0003_SBCK_000-1a08}
+  - {type: indent, offset: 62, content: 　　, id: KR2g0003_krp_000-bkkind7}
+  - {type: 'kr:newline', offset: 75, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl8}
+  - {type: line-break, offset: 75, content: '', id: KR2g0003_SBCK_000-1a09}
+  - {type: indent, offset: 75, content: 　　, id: KR2g0003_krp_000-bkkind8}
+  - {type: 'kr:newline', offset: 88, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl9}
+  - {type: page-break, offset: 88, content: '', id: KR2g0003_SBCK_000-1b}
+  - {type: 'kr:newline', offset: 88, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl10}
+  - {type: line-break, offset: 88, content: '', id: KR2g0003_SBCK_000-1b01}
+  - {type: indent, offset: 88, content: 　, id: KR2g0003_krp_000-bkkind9}
+  - {type: 'kr:newline', offset: 102, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl11}
+  - {type: line-break, offset: 102, content: '', id: KR2g0003_SBCK_000-1b02}
+  - {type: punctuation, offset: 112, content: (, id: KR2g0003_krp_000-bkkpn1}
+  - {type: punctuation, offset: 113, content: ), id: KR2g0003_krp_000-bkkpn2}
+  - {type: 'kr:newline', offset: 120, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl12}
+  - {type: line-break, offset: 120, content: '', id: KR2g0003_SBCK_000-1b03}
+  - {type: punctuation, offset: 124, content: (, id: KR2g0003_krp_000-bkkpn3}
+  - {type: punctuation, offset: 125, content: ), id: KR2g0003_krp_000-bkkpn4}
+  - {type: punctuation, offset: 131, content: (, id: KR2g0003_krp_000-bkkpn5}
+  - {type: punctuation, offset: 132, content: ), id: KR2g0003_krp_000-bkkpn6}
+  - {type: 'kr:newline', offset: 138, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl13}
+  - {type: line-break, offset: 138, content: '', id: KR2g0003_SBCK_000-1b04}
+  - {type: punctuation, offset: 140, content: (, id: KR2g0003_krp_000-bkkpn7}
+  - {type: punctuation, offset: 141, content: ), id: KR2g0003_krp_000-bkkpn8}
+  - {type: 'kr:newline', offset: 156, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl14}
+  - {type: line-break, offset: 156, content: '', id: KR2g0003_SBCK_000-1b05}
+  - {type: 'kr:newline', offset: 174, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl15}
+  - {type: line-break, offset: 174, content: '', id: KR2g0003_SBCK_000-1b06}
+  - {type: 'kr:newline', offset: 192, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl16}
+  - {type: line-break, offset: 192, content: '', id: KR2g0003_SBCK_000-1b07}
+  - {type: 'kr:newline', offset: 210, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl17}
+  - {type: line-break, offset: 210, content: '', id: KR2g0003_SBCK_000-1b08}
+  - {type: variant, offset: 227, length: 1, content: 類, SBCK: 􅁼}
+  - {type: 'kr:newline', offset: 228, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl18}
+  - {type: line-break, offset: 228, content: '', id: KR2g0003_SBCK_000-1b09}
+  - {type: 'kr:newline', offset: 246, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl19}
+  - {type: page-break, offset: 246, content: '', id: KR2g0003_SBCK_000-2a}
+  - {type: 'kr:newline', offset: 246, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl20}
+  - {type: line-break, offset: 246, content: '', id: KR2g0003_SBCK_000-2a01}
+  - {type: variant, offset: 262, length: 1, content: 博, SBCK: 􅀶}
+  - {type: 'kr:newline', offset: 264, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl21}
+  - {type: line-break, offset: 264, content: '', id: KR2g0003_SBCK_000-2a02}
+  - {type: variant, offset: 276, length: 250, content: 景公㠯節儉力行盡忠極諫道齊國君得㠯正行百姓得㠯附親不用則退耕于野用則必不詘義不可脅㠯邪白刅雖交胸終不受崔杼之刼諌齊君懸而至順而刻及使諸侯莫能詘其辭其博通如此蓋次管仲内能親親外能厚賢居相國之位受萬鍾之祿故親戚待其祿而衣食五百餘家處士待而舉火者亦甚衆晏子衣苴布之衣麋鹿之裘駕敝車疲馬盡㠯祿給親戚朋友齊人㠯此重之晏子蓋短疑缺其書六篇皆忠諌其君文章可觀義理可法皆合六經之義又有復重文辭頗異不敢遺失復列㠯爲一篇又有頗不合經術似非晏子言疑後世辯士所爲者故亦不敢失復㠯爲一篇凢八篇其六篇可常置旁御觀謹第錄臣向昧死上, WYG: 奮}
+  - {type: 'kr:newline', offset: 282, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl22}
+  - {type: line-break, offset: 282, content: '', id: KR2g0003_SBCK_000-2a03}
+  - {type: variant, offset: 289, length: 1, content: 國, SBCK: 􅀦}
+  - {type: 'kr:newline', offset: 300, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl23}
+  - {type: line-break, offset: 300, content: '', id: KR2g0003_SBCK_000-2a04}
+  - {type: 'kr:newline', offset: 318, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl24}
+  - {type: line-break, offset: 318, content: '', id: KR2g0003_SBCK_000-2a05}
+  - {type: 'kr:newline', offset: 336, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl25}
+  - {type: line-break, offset: 336, content: '', id: KR2g0003_SBCK_000-2a06}
+  - {type: 'kr:newline', offset: 354, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl26}
+  - {type: line-break, offset: 354, content: '', id: KR2g0003_SBCK_000-2a07}
+  - {type: variant, offset: 368, length: 1, content: 國, SBCK: 􅀦}
+  - {type: 'kr:newline', offset: 372, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl27}
+  - {type: line-break, offset: 372, content: '', id: KR2g0003_SBCK_000-2a08}
+  - {type: 'kr:newline', offset: 390, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl28}
+  - {type: line-break, offset: 390, content: '', id: KR2g0003_SBCK_000-2a09}
+  - {type: 'kr:newline', offset: 408, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl29}
+  - {type: page-break, offset: 408, content: '', id: KR2g0003_SBCK_000-2b}
+  - {type: 'kr:newline', offset: 408, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl30}
+  - {type: line-break, offset: 408, content: '', id: KR2g0003_SBCK_000-2b01}
+  - {type: 'kr:newline', offset: 426, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl31}
+  - {type: line-break, offset: 426, content: '', id: KR2g0003_SBCK_000-2b02}
+  - {type: punctuation, offset: 433, content: (, id: KR2g0003_krp_000-bkkpn9}
+  - {type: punctuation, offset: 434, content: /, id: KR2g0003_krp_000-bkkpn10}
+  - {type: punctuation, offset: 435, content: ), id: KR2g0003_krp_000-bkkpn11}
+  - {type: 'kr:newline', offset: 445, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl32}
+  - {type: line-break, offset: 445, content: '', id: KR2g0003_SBCK_000-2b03}
+  - {type: 'kr:newline', offset: 463, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl33}
+  - {type: line-break, offset: 463, content: '', id: KR2g0003_SBCK_000-2b04}
+  - {type: 'kr:newline', offset: 481, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl34}
+  - {type: line-break, offset: 481, content: '', id: KR2g0003_SBCK_000-2b05}
+  - {type: 'kr:newline', offset: 499, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl35}
+  - {type: line-break, offset: 499, content: '', id: KR2g0003_SBCK_000-2b06}
+  - {type: 'kr:newline', offset: 517, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl36}
+  - {type: line-break, offset: 517, content: '', id: KR2g0003_SBCK_000-2b07}
+  - {type: punctuation, offset: 521, content: (, id: KR2g0003_krp_000-bkkpn12}
+  - {type: punctuation, offset: 522, content: ), id: KR2g0003_krp_000-bkkpn13}
+  - {type: 'kr:newline', offset: 526, content: '
+
+      ', id: KR2g0003_krp_000-bkkkrnewl37}
+  back: []
+hash: sha256:7c29ca8537cf91f2ca323824a884252aaae846d9bce417983ca089f203256fdd

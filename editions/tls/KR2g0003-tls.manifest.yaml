@@ -1,0 +1,214 @@
+canonical_identifier: bkk:krp/KR2g0003/tls/v1
+canonical_location: https://kanripo.org/bkk/KR2g0003/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 晏子春秋
+  identifiers:
+    krp: KR2g0003
+  tags:
+    kr-categories: KR2g
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    tls-dates: dat08110
+  source:
+    repository: tls-texts
+    path: data/tls/KR2g0003.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR2g0003_001-tls.yaml, hash: 'sha256:201e8124eef2623979ecb86aaa92183827abf769865359a1e24b348371ac6368'}
+  - {seq: 2, filename: KR2g0003_002-tls.yaml, hash: 'sha256:80cea6d0007c5822679c702af16be9264778b32b23101c9d38a36a83e22018a1'}
+  - {seq: 3, filename: KR2g0003_003-tls.yaml, hash: 'sha256:6aa55719fb031ee12030974ea56ef1e4b5270ab578aeb8ba981e9537451befe7'}
+  - {seq: 4, filename: KR2g0003_004-tls.yaml, hash: 'sha256:80725d18e25da659791fde4853e5288c24cc2a71514755ebe543288cd6808deb'}
+  - {seq: 5, filename: KR2g0003_005-tls.yaml, hash: 'sha256:893a15a98aa40302972438320d5b29cbab622992d1f2bc198df099e6ad2704e6'}
+  - {seq: 6, filename: KR2g0003_006-tls.yaml, hash: 'sha256:cfebdf1190e449c22762e146a7b290f675f883320b1f963636e7edc663cf4592'}
+  - {seq: 7, filename: KR2g0003_007-tls.yaml, hash: 'sha256:a8cf11b5eaeccb84033d026239cb66f709355c7dbe92c7a10c663bd89da93df7'}
+  - {seq: 8, filename: KR2g0003_008-tls.yaml, hash: 'sha256:fa89cd3bfb0662228be64c01d59ef5730d55fe3c48e8e2ba1c81f6f82e59aea1'}
+  - {seq: 9, filename: KR2g0003_009-tls.yaml, hash: 'sha256:3cd278f7e4e62c280ca390306a7398bcd0acb5671d4c3bc9554d33aafd58c139'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2g0003_001-tls.markers.yaml, hash: 'sha256:1e309e94c5cdbc26d5d5bd5601d39bdd6c1bb6558ede2d0eb587b88d5b730b96'}
+  - {seq: 2, role: markers, filename: assets/KR2g0003_002-tls.markers.yaml, hash: 'sha256:dd9f23579c0a007dbed3006f44a7805bc63b6b1bf4fe9101914965b0e0069438'}
+  - {seq: 3, role: markers, filename: assets/KR2g0003_003-tls.markers.yaml, hash: 'sha256:d23956bc23012d84bd3da9e0b766dab5aa09508f545188dcdc039ceaeba7006f'}
+  - {seq: 4, role: markers, filename: assets/KR2g0003_004-tls.markers.yaml, hash: 'sha256:8232353d5ea72e8a540132422efef2bf55491870248d2160f75e0847e1c99be4'}
+  - {seq: 5, role: markers, filename: assets/KR2g0003_005-tls.markers.yaml, hash: 'sha256:528da417c126c482eb1b8b6388b78068ddafb9c326e75e359930700ea2ce32ce'}
+  - {seq: 6, role: markers, filename: assets/KR2g0003_006-tls.markers.yaml, hash: 'sha256:3de2614e2fecdd78a0736bc67c8f5bc195fef28810dea448383e013d2a04ad5e'}
+  - {seq: 7, role: markers, filename: assets/KR2g0003_007-tls.markers.yaml, hash: 'sha256:2b5cd03e0a704988dccbf1c0124d7a6964d4e4bb214395f107336a0dfcb1ed42'}
+  - {seq: 8, role: markers, filename: assets/KR2g0003_008-tls.markers.yaml, hash: 'sha256:a4ceb666fcf6aa9b22db16b9c0c3261b56b27ce0de2b3e22f85873dd6ce3d87a'}
+  - {seq: 9, role: markers, filename: assets/KR2g0003_009-tls.markers.yaml, hash: 'sha256:fe0260e0a73bd7bb64afd19aacaf2af480b86c72c371c7c5a9a5cded5f12d0e0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2g0003_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 6679
+  label: 內篇諫上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2g0003_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 內篇諫上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2g0003_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 6170
+  label: 內篇諫下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2g0003_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 內篇諫下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2g0003_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 6029
+  label: 內篇問上
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2g0003_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 內篇問上
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2g0003_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 4831
+  label: 內篇問下
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2g0003_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 內篇問下
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2g0003_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 5797
+  label: 內篇雜上
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2g0003_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 內篇雜上
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2g0003_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 5265
+  label: 內篇雜下
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2g0003_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 內篇雜下
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2g0003_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 6032
+  label: 外篇重而異者
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2g0003_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 外篇重而異者
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2g0003_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 3007
+  label: 外篇不合經術者
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2g0003_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 外篇不合經術者
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2g0003_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 621
+  label: 晏子春秋佚文
+  type: section
+  level: 1
+hash: sha256:bf783a1451edc56272e66bb20e7d6d3981791614ac1817a3216f6ab3b3c87335
