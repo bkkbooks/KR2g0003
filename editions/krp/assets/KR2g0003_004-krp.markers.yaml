@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 6, content: 晏子春秋内篇, WYG: ''}
   - {type: punctuation, offset: 10, content: (, id: KR2g0003_krp_004-bkkpn1}
   - {type: variant, offset: 10, length: 655, content: 凢三十章景公問何修則夫先王之游晏子對㠯省耕實第一景公問桓公何以致霸晏子對㠯下贒以身第二景公問欲逮桓公之後晏子對㠯任非其人第三景公問廉政而長乆晏子對㠯其行水也第四景公問爲臣之道晏子對㠯九節第五景公問贒不肖可學乎晏子對㠯彊勉爲上第六景公問富民安衆晏子對㠯節中聽第七景公問國如何則謂安晏子對㠯内安政外歸義第八景公問諸侯孰危晏子對㠯莒其先亡第九景公使吳吳王問可處可去晏子對㠯視國治亂第十景公問保威强不失之道晏子對以先民後身第十一景公使魯魯君問何事囘曲之君晏子對㠯庇族第十二魯昭公問魯一國迷何也晏子對以化爲一心第十三魯昭公問安國衆民晏子對以事大飬小謹節聽儉第十四晏子使晉晉平公問先君得衆若何晏子對以如美淵澤第十五晉平公問齊君德行髙下晏子對以小善第十六晉叔向問齊國若何晏子對以齊德衰民歸田氏第十七叔向問齊悳衰子若何晏子對以進不失退忠不失行第十八叔向問正士邪人之行如何晏子對㠯使下順逆第十九叔向問事君徒處之義奚如晏子對㠯大贒無擇第二十叔向問處亂世其行正曲晏子對㠯民爲本第二十一叔向問意孰爲髙行孰爲厚晏子􅟃以愛民樂民第二十二叔向嗇吝􅋢扵行何如晏子對嗇者君子之道第二十三叔向問君子之大義何若晏子對以尊贒退不肖第二十四向叔問傲世樂業能行道乎晏子對以狂惑也第二十五叔向問人何若則榮晏子對㠯事君親忠孝第二十六叔向問人何以則可保身晏子對以不要幸第二十七曾子問不諌上不顧民可成行義者晏子以何以成也第二十八梁丘據問子事三君不同心晏子對㠯一心可㠯事百君第二十九栢常騫問道無㓕身無廢晏子對㠯養世君子第三十景公問何脩則夫先王之游晏子對以省耕實第一, WYG: ''}
+  - {type: 'voice:problem', offset: 10, length: 0, id: KR2g0003_krp_004-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR2g0003_krp_004-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -16,6 +17,7 @@ markers:
       ', id: KR2g0003_krp_004-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2g0003_SBCK_004-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR2g0003_krp_004-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2g0003_krp_004-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 16, content: '
 
       ', id: KR2g0003_krp_004-bkkkrnewl2}
@@ -2239,4 +2241,4 @@ markers:
 
       ', id: KR2g0003_krp_004-bkkkrnewl411}
   back: []
-hash: sha256:9bbb155a5af64f6e3b4ef12200c1a514051f282f455e9bbe116230f5549244ec
+hash: sha256:9ca008fb28794625d729d23b3e75573e6097468bae776c36e3b47fa065f69781

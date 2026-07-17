@@ -27,14 +27,14 @@ assets:
   - {seq: 7, filename: KR2g0003_007-WYG.yaml, hash: 'sha256:44fc755d1787860da498d9d914ea1bbcefca99e8f2be7ced2b84e75eb26385f1'}
   - {seq: 8, filename: KR2g0003_008-WYG.yaml, hash: 'sha256:4eb54b4825b41eb5d0941dd1d96140494875f6bfb2b92e8101376c966d5e7422'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0003_000-WYG.markers.yaml, hash: 'sha256:1fb7b09244a372495fbcc9ffb7962bdf45d21aeb5deab410e4e6c31e9cbfab18'}
+  - {seq: 0, role: markers, filename: assets/KR2g0003_000-WYG.markers.yaml, hash: 'sha256:95804d85e418c78ffa779bb227af3e328fbcc79df58bd7e5dc71f4bc32e4d99d'}
   - {seq: 1, role: markers, filename: assets/KR2g0003_001-WYG.markers.yaml, hash: 'sha256:6c5cd49a66106000c72dfee0cc756cb0288033588fb3ebaa4b76f42fb3aefdbe'}
-  - {seq: 2, role: markers, filename: assets/KR2g0003_002-WYG.markers.yaml, hash: 'sha256:67558dd4c9e08394fad9c1deb7282f5b30c862322d4efccb7aa16055216cd986'}
+  - {seq: 2, role: markers, filename: assets/KR2g0003_002-WYG.markers.yaml, hash: 'sha256:360864e3376f3546f353889f8275e9233654e2a399a4f9faf995c87a5f072cd0'}
   - {seq: 3, role: markers, filename: assets/KR2g0003_003-WYG.markers.yaml, hash: 'sha256:66ea53a003a9d72869bdb6132b23a94ec7f72b7351423db38d71cf7ea38b5ec7'}
   - {seq: 4, role: markers, filename: assets/KR2g0003_004-WYG.markers.yaml, hash: 'sha256:66a58ce975b2bbac01f472a5a9e2d9db8dc7daf4d9bde48e6f23ffd6aa053ce2'}
   - {seq: 5, role: markers, filename: assets/KR2g0003_005-WYG.markers.yaml, hash: 'sha256:b46bf93543e2ee7352e60d85a0a02ea7e571cf3a326b0ad2e290673fce95d62c'}
   - {seq: 6, role: markers, filename: assets/KR2g0003_006-WYG.markers.yaml, hash: 'sha256:bcd64a55d29721fab5786cc035d01b1ec6774783b23cf317d1f1feb94cf2bfdb'}
-  - {seq: 8, role: markers, filename: assets/KR2g0003_008-WYG.markers.yaml, hash: 'sha256:61156737020da88d64cb1495ac789447fc367f3a3a58727d013909aaba831920'}
+  - {seq: 8, role: markers, filename: assets/KR2g0003_008-WYG.markers.yaml, hash: 'sha256:e49c8a82c8e16fcaec6f769901414dca55383549339ff05496ab065e09c20f30'}
 table_of_contents:
 - ref:
     seq: 0
@@ -116,4 +116,4 @@ table_of_contents:
   label: juan 008
   type: section
   level: 1
-hash: sha256:1bcc9b1c10ea1c46246ec019e380f76c31810526d44a9a34d66719946c03c343
+hash: sha256:1eb9d6241a775787115d82f8999eee858a865ffbcbec64cc8f7a6eb09dccde25

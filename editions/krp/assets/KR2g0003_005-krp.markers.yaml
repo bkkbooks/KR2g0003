@@ -10,6 +10,7 @@ markers:
   - {type: variant, offset: 6, length: 1, content: 襍, SBCK: 􅇎}
   - {type: punctuation, offset: 10, content: (, id: KR2g0003_krp_005-bkkpn1}
   - {type: variant, offset: 10, length: 551, content: 凢三十章莊公不恱晏子晏子坐地訟公而第一莊公不用晏子致邑而退後有崔氏之難第二崔慶刦齊將軍大夫盟晏子不與第三晏子再治阿而信見景公任以國政第四景公惡故人晏子退國亂復召晏子第五齊饑晏子因路之役㠯振民第六景公欲墮東門之堤晏子謂不可變古第七景公憐饑者晏子稱治國之本㠯長其意第八景公探雀鷇鷇弱反之晏子稱長㓜㠯賀第九景公睹乞兒扵塗晏子諷公使養第十景公慙刖跪之辱不朝晏子稱直請賞之第十一景公夜徔晏子飮晏子稱不敢與第十二景公使進食與裘晏子對㠯社稷臣第十三晏子飲景公正家老歛欲與民共樂第十四晏子飲景公酒呼具火晏子稱詩以辤第十五晉欲攻齊使人徃觀晏子㠯禮侍而折其謀第十六景公問東門無澤年榖而對以氷晏子請罷伐魯第十七景公使晏子予魯地而魯使不盡受第十八景公游紀得金中書晏子因以諷之第十九景公贒魯昭公去國而自悔晏子謂無及已第二十晏子使魯布事巳仲尼以爲知禮第二十一晏子之魯進食有豚亡二肩不求其人第二十二曾子將行晏子送之而贈㠯善言第二十三晏子之晉睹齊纍越石父解左驂贖之與歸第二十四晏子之御感妻言而自抑損晏子薦以爲大夫第二十五泯子午見晏子晏子恨不盡其意第二十六晏子乞北郭騷米以養母騷殺身㠯眀道晏子之贒第二十七景公欲見高糺晏子辤以祿仕之臣第二十八髙糺治晏子家不得其俗乃逐人第二十九晏子居䘮遜畣家老仲尼善之第三十莊公不恱晏子晏子坐地訟公而歸第一, WYG: ''}
+  - {type: 'voice:problem', offset: 10, length: 0, id: KR2g0003_krp_005-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR2g0003_krp_005-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -17,6 +18,7 @@ markers:
       ', id: KR2g0003_krp_005-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2g0003_SBCK_005-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR2g0003_krp_005-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2g0003_krp_005-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 13, content: 　, id: KR2g0003_krp_005-bkkind2}
   - {type: 'kr:newline', offset: 15, content: '
 
@@ -2463,4 +2465,4 @@ markers:
 
       ', id: KR2g0003_krp_005-bkkkrnewl449}
   back: []
-hash: sha256:dc7c9eb8ee82387f7b17e37861df0cb64875b600e58dcba9014a7b5ee16312e7
+hash: sha256:ce97dcbb96e8395308739ee68af4f09f780b95af8a6242ad610d73e5971d1049

@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 6, content: 晏子春秋内篇, WYG: ''}
   - {type: punctuation, offset: 10, content: (, id: KR2g0003_krp_006-bkkpn1}
   - {type: variant, offset: 10, length: 633, content: 凢三十章靈公禁婦人爲丈夫飾不止晏子請先内勿服第一齊人好轂擊晏子紿不祥而禁之第二景公瞢五丈夫稱無辜晏子知其冤第三栢常騫禳鳥死將爲景公請壽晏子識其妄第四景公成栢寢而師開言室夕晏子辨其所㠯然第五景公病水瞢與日闘晏子教占瞢者㠯對第六景公病瘍晏子撫而對之廼知群臣之野第七景公使吳吳王命儐者稱天子晏子詳惑第八晏子使楚楚爲小門晏子稱使狗國者入狗門第九楚王欲辱晏子指盗者爲齊人晏子對以橘第十楚王饗晏子進橘置削晏子不剖而食第十一晏子布衣棧事而朝陳桓子侍景公飲酒請浮第十二田無宇請求四方之學士晏子謂君子難得第十三田無宇勝欒氏高氏欲分其家晏子使致之公第十四子尾疑晏子不受慶氏之邑晏子謂足欲則亡第十五景公祿晏子平因與槀邑晏子願計三言以辭第十六梁丘據言晏子食肉不足景公割地將封晏子辭第十七景公以晏子食不足致千金而晏子固不受第十八景公㠯晏子衣食弊薄使田無宇致封邑辭第十九田桓子疑景子何以辤邑晏子荅㠯君子之事也第二十景公欲更晏子宅晏子辤以近市得所求諷公自刑第二十一景公毀晏子隣以益其宅晏子因陳桓子以辤第二十二景公欲爲晏子築室扵宫内晏子稱是㠯逺之而辭第二十三景公㠯晏子妻老且惡欲内愛女晏子再拜以辤第二十四景公以晏子乗弊車駑馬使梁丘據遺之三返不受第二十五景公睹晏子之食菲薄而嗟其貧晏子稱其參士之食第二十六梁丘據自患不及晏子晏子勉據吕常爲常計第二十七晏子老辤邑景公不許致車一乗而後止二十八晏子病將死妻問所欲言云毋變爾俗第二十九晏子病將死鑿楹納書命子壯而示之第三十靈公禁婦人爲丈夫飾不止晏子請先内勿服第一, WYG: ''}
+  - {type: 'voice:problem', offset: 10, length: 0, id: KR2g0003_krp_006-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR2g0003_krp_006-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -16,6 +17,7 @@ markers:
       ', id: KR2g0003_krp_006-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2g0003_SBCK_006-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR2g0003_krp_006-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2g0003_krp_006-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 16, content: '
 
       ', id: KR2g0003_krp_006-bkkkrnewl2}
@@ -2425,4 +2427,4 @@ markers:
 
       ', id: KR2g0003_krp_006-bkkkrnewl452}
   back: []
-hash: sha256:5fb382da79b0f1277ca43a6d3ce7c9830c33257be53aadf2fd6f0dec05f0401b
+hash: sha256:facef6919f6256a0635ec34e10aa876df252615255200d2ed15d06642f7ca08f

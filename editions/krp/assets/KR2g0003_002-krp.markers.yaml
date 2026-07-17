@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 6, content: 晏子春内秋篇, WYG: ''}
   - {type: punctuation, offset: 10, content: (, id: KR2g0003_krp_002-bkkpn1}
   - {type: variant, offset: 10, length: 414, content: 凢二十五章景公籍重而獄多欲託晏子晏子諫第一景公欲殺犯所􅋢之槐者晏子諫第二景公逐得斬竹者囚之晏子諌第三景公以搏治之兵未成功將殺之晏子諌第四景公冬𧺫大臺之役晏子諫第五景公爲長庲音來欲美之晏子諫第六景公爲鄒之長塗晏子諌第七景公春夏游獵興役晏子諫第八景公獵休坐地晏子席而諫第九景公獵逢蛇虎以爲不祥晏子諫第十景公爲臺成文欲爲鐘晏子諫第十一景公爲㤗呂成將以燕饗晏子諌第十二景公爲履而飾㠯金玉晏子諫第十三景公欲㠯聖王居服而致諸侯晏子諫第十四景公自矜冠裳游處之貴晏子諫第十五景公爲巨冠長衣以聽朝晏子諫第十六景公朝居嚴下不言晏子諫第十七景公登路寢臺不終不說晏子諫第十八景公登路寢臺望國而嘆晏子諌第十九景公路寢䑓成逢于何願合葬晏子諌而許第二十景公嬖妾死守之三日而不歛晏子諫第二十一景公欲厚葬梁丘據晏子諫第二十二景公欲以人禮葬走狗晏子諌第二十三景公飬勇士三人無君臣之義晏子諫第二十四景公登射思勇力士與之圖晏子諫第二十五景公藉重而獄多欲託晏子晏子諫第一, WYG: ''}
+  - {type: 'voice:problem', offset: 10, length: 0, id: KR2g0003_krp_002-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR2g0003_krp_002-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -16,6 +17,7 @@ markers:
       ', id: KR2g0003_krp_002-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2g0003_SBCK_002-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR2g0003_krp_002-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2g0003_krp_002-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 16, content: '
 
       ', id: KR2g0003_krp_002-bkkkrnewl2}
@@ -2304,4 +2306,4 @@ markers:
 
       ', id: KR2g0003_krp_002-bkkkrnewl436}
   back: []
-hash: sha256:52962ff8581515c5e90151d861558a1e7e50b83f1e9ccc9b366673d715104511
+hash: sha256:7af1212e8738bbad2675afc328b4c0b1f8a3bddf505895f7617824c865c469e7

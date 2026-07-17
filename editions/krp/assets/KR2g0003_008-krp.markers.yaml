@@ -39,6 +39,7 @@ markers:
   - {type: page-break, offset: 13, content: '', id: KR2g0003_WYG_001-10a, image: WYG0446/WYG0446-0101a.png}
   - {type: page-break, offset: 13, content: '', id: KR2g0003_WYG_001-10b, image: WYG0446/WYG0446-0101b.png}
   - {type: page-break, offset: 13, content: '', id: KR2g0003_WYG_001-11a, image: WYG0446/WYG0446-0101c.png}
+  - {type: 'voice:problem', offset: 13, length: 0, id: KR2g0003_krp_008-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 13}
   - {type: variant, offset: 15, length: 4, content: 八章仲尼, WYG: 五矣公曰壽哉子其祝我封人曰使君之年長於胡宜國家公曰善哉子其復之曰使君之嗣壽皆若鄙臣之年公曰善哉子其復之封人曰使君無得罪於民公曰誠有鄙民得罪於君則可安有君得罪於民者乎晏子諫曰君過矣彼䟽者有罪戚者治之賤者有罪貴者治之君得罪於民誰將治之敢問桀紂君誅乎民誅乎公曰寡人固也於是賜封人麥丘以為邑楚巫微導裔款以}
   - {type: page-break, offset: 15, content: '', id: KR2g0003_WYG_001-11b, image: WYG0446/WYG0446-0101d.png}
   body:
@@ -48,6 +49,7 @@ markers:
       ', id: KR2g0003_krp_008-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2g0003_SBCK_008-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR2g0003_krp_008-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2g0003_krp_008-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: variant, offset: 5, length: 0, content: '', WYG: 侍坐三日}
   - {type: variant, offset: 7, length: 0, content: '', WYG: 説之楚巫曰公明神主之帝王之君也公即位有七年矣事未大濟者明神未至也請致五帝以明君德景公再拜稽首楚巫曰請廵國郊以觀帝位至於牛山而不敢登曰五帝之位在於國南請齋而後登之公命百官供齋具於楚巫之所裔款視事晏子聞之而見於公曰公令楚巫齋牛山乎公曰然致五帝以明寡人之德神將降福於寡人其有所濟乎晏子曰君之言過矣古之王者德厚足以安世行廣足以容衆諸侯戴之以為君長百姓歸之以為父母是故天地四時和而不失星辰日月順而不亂德厚行廣配天象時然後為帝王之君神明之主古者不慢行而繁祭不輕身而恃巫今政亂而行僻而求五帝之明德也棄賢而用巫而求帝王之在身也夫民不茍德福不苟降君之帝王不亦難乎惜夫君位之髙所論之卑也公曰裔欵以楚巫命寡人曰試嘗見而觀焉寡人見而説之信其道行其言今夫子譏之請逐楚巫而拘裔欵晏子曰楚巫不可出公曰何故對曰楚巫出諸侯必或受之公信之以過於内不知出以易諸侯於外不仁請東楚巫而拘裔欵公曰諾故曰送楚巫於東而拘裔欵於國也齊大旱逾時景公召羣臣問曰天不雨久矣民且有饑色吾使人卜云祟在髙山廣水寡人}
   - {type: page-break, offset: 7, content: '', id: KR2g0003_WYG_001-12a, image: WYG0446/WYG0446-0102a.png}
@@ -1604,4 +1606,4 @@ markers:
 
       ', id: KR2g0003_krp_008-bkkkrnewl247}
   back: []
-hash: sha256:9523de86cd656ee6c0d73ba568d6c6474a98ab0a837538303b5d7281379a895b
+hash: sha256:f764d917f9d8cf597d6bf9fff6de8fa5535323c6481fc1a11e93f95ca8b8dfa2

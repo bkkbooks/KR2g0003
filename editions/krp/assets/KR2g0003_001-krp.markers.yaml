@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR2g0003_SBCK_001-1a01}
   - {type: variant, offset: 0, length: 432, content: 晏子春秋内篇諫上第一凢二十五章莊公矜勇力不顧行義晏子諫第一景公飲酒酣願諸大夫無爲禮晏子諫第二景公飮酒酲三日而後發晏子諫第三景公飮酒七日不納弦章之言晏子諫第四景公飲酒不䘏天災致能歌者晏子諫第五景公夜聽新樂而不朝晏子諫第六景公燕賞無功而罪有司晏子諫第七景公信用讒佞賞罸失中晏子諫第八景公􅋢嬖妾隨其所欲晏子諫第九景公敕五子之傅而失言晏子諫第十景公欲廢適子陽生而立荼晏子諫第十一景公病乆不愈欲誅祝史㠯謝晏子諫第十二景公怒封人之祝不遜晏子諫第十三景公欲使楚巫致五帝㠯明德晏子諫第十四景公欲祠靈山河伯㠯禱雨晏子諫第十五景公貪長有國之樂晏子諫第十六景公登牛山悲去國而死晏子諫第十七景公遊公阜日有三過言晏子諫第十八景公遊寒塗不恤死胔晏子諫第十九景公衣狐白裘不知天寒晏子諫第二十景公異熒惑守虗而不去晏子諫第二十一景公將伐宋夢二丈夫立而怒晏子諫第二十二景公從畋十八日不返國晏子諫弟二十三景公欲誅駭鳥埜人晏子諫第二十四景公所􅋢馬死欲誅圉人晏子諫第二十五莊公矜勇力不顧行義晏子諫第一莊公奮, WYG: ''}
   - {type: punctuation, offset: 10, content: (, id: KR2g0003_krp_001-bkkpn1}
+  - {type: 'voice:problem', offset: 10, length: 0, id: KR2g0003_krp_001-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR2g0003_krp_001-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -15,6 +16,7 @@ markers:
       ', id: KR2g0003_krp_001-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2g0003_SBCK_001-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR2g0003_krp_001-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2g0003_krp_001-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 14, content: '
 
       ', id: KR2g0003_krp_001-bkkkrnewl2}
@@ -2689,4 +2691,4 @@ markers:
 
       ', id: KR2g0003_krp_001-bkkkrnewl484}
   back: []
-hash: sha256:368568259bc9e4172dcea32069305ef6fb2446314a81a20f9d9487c2c56084c6
+hash: sha256:2ca4448a2c3e652a4243f9efd5c5bda778e4ab4d9af7cd5ef4ac6d630282fe36

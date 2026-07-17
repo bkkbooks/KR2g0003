@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 6, content: 晏子春秋内篇, WYG: ''}
   - {type: punctuation, offset: 10, content: (, id: KR2g0003_krp_003-bkkpn1}
   - {type: variant, offset: 10, length: 647, content: 凢三十章莊公問威當世服天下時耶晏子對㠯行也第一莊公問伐晉晏子對㠯不可若不濟國之福第二景公問伐魯晏子對㠯不若脩政㠯待其亂第三景公伐斄勝之問所當賞晏子對㠯謀勝祿臣第四景公問聖王之行若何晏子對㠯衰世而諷第五景公問欲善齊國之政㠯干霸王晏子對㠯官未具第六景公問欲如桓公用管仲㠯成霸業晏子對㠯不能第七景公問莒魯孰先亡晏子對㠯魯後莒先第八景公問治國何患晏子對㠯社䑕猛狗第九景公問欲令祝史求福晏子對以當辤罪而無求第十景公問古之盛君其行何如晏子對以問道者更正第十一景公問謀必得事必成何術晏子對以度義因民第十二景公問善爲國家者何如晏子對以舉贒官能第十三景公問君臣身尊而榮難乎晏子對以易第十四景公問天下之所以存亡晏子對以六說第十五景公問君子所行曷若晏子對以三者第十六景公問贒君治國若何晏子對以任贒􅋢民十七景公問眀王之教民若何晏子對以先行義第十八景公問忠臣之事君何若晏子對㠯不與君䧟扵難第十九景公問忠臣之行何如晏子對㠯不與君行邪第二十景公問佞人之事君何如晏子對㠯愚君所信也第二十一景公問聖人之不得意如何晏子對㠯不與世䧟乎邪第二十二景公問古者君民用國不危弱晏子對㠯文王第二十三景公問古之蒞國者任人如何晏子對㠯人不同能第二十四景公問古者離散其民如何晏子對㠯今聞公令如冦讐第二十五景公問欲和臣親下晏子對㠯信順儉節第二十六景公問得贒之道晏子對㠯舉之㠯語考之㠯事第二十七景公問臣之報君何㠯晏子對報㠯悳第二十八景公問臨國蒞民所患何也晏子對㠯患者三第二十九景公問爲政何患晏子對㠯善惡不分第三十莊公問威當世服天下時耶晏子對㠯行也第一莊, WYG: 荘}
+  - {type: 'voice:problem', offset: 10, length: 0, id: KR2g0003_krp_003-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR2g0003_krp_003-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -16,6 +17,7 @@ markers:
       ', id: KR2g0003_krp_003-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2g0003_SBCK_003-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2g0003_krp_003-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR2g0003_krp_003-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 17, content: '
 
       ', id: KR2g0003_krp_003-bkkkrnewl2}
@@ -2626,4 +2628,4 @@ markers:
 
       ', id: KR2g0003_krp_003-bkkkrnewl489}
   back: []
-hash: sha256:a11a464d0e2ae7126fd208cb168194ca845c670d0e32ced2fd67c2cd211e86b2
+hash: sha256:aab5f739abd33dc534126bea0291930d6cf699acbf2e5dea6a8af81ea40cb2c5
